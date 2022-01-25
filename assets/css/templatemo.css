@@ -25,22 +25,23 @@ body, ul, li, p, a, label, input, div {
 }
 /* General */
 .logo { font-weight: 500 !important;}
-.text-warning {  color: #ede861 !important;}
-.text-muted { color: #bcbcbc !important;}
-.text-success { color: #59ab6e !important;}
-.text-light { color: #cfd6e1 !important;}
-.bg-dark { background-color: #212934 !important;}
-.bg-light { background-color: #e9eef5 !important;}
-.bg-black { background-color: #1d242d !important;}
-.bg-success { background-color: #59ab6e !important;}
+.text-warning {  color: #090909 !important;}
+.text-muted { color: #fdfcfc !important;}
+.text-success { color: #10ce12 !important;}
+.text-light { color: rgb(253, 253, 255) !important;}
+.bg-dark { background-color: #655b6f !important;}
+.bg-light { background-color: rgba(193, 120, 163, 0.73) !important;}
+.bg-black { background-color: #21033b !important;}
+.bg-success { background-color: #866e89 !important;}
 .btn-success {
-  background-color: #59ab6e !important;
-  border-color: #56ae6c !important;
+  background-color: #05ea3f !important;
+  border-color: #0bee44 !important;
+
 }
 .pagination .page-link:hover {color: #000;}
 .pagination .page-link:hover, .pagination .page-link.active {
   background-color: #69bb7e;
-  color: #fff;
+  color: #08fe00;
 }
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
@@ -50,7 +51,7 @@ body, ul, li, p, a, label, input, div {
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 
 /* Hero Carousel */
-#template-mo-zay-hero-carousel { background: #efefef !important;}
+#template-mo-zay-hero-carousel { background: #dba5cd !important;}
 /* Accordion */
 .templatemo-accordion a { color: #000;}
 .templatemo-accordion a:hover { color: #333d4a;}
@@ -61,7 +62,7 @@ body, ul, li, p, a, label, input, div {
 .product-wap .product-color-dot.color-dot-red { background:#f71515;}
 .product-wap .product-color-dot.color-dot-blue { background:#6db4fe;}
 .product-wap .product-color-dot.color-dot-black { background:#000000;}
-.product-wap .product-color-dot.color-dot-light { background:#e0e0e0;}
+.product-wap .product-color-dot.color-dot-light { background: #ac9cac;}
 .product-wap .product-color-dot.color-dot-green { background:#0bff7e;}
 .card.product-wap .card .product-overlay {
   background: rgba(0,0,0,.2);
